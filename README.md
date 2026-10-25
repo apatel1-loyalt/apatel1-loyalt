@@ -74,15 +74,6 @@ I have worked on mission-critical platforms across financial services, retail, l
 
 ---
 
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apatel1-loyalt&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apatel1-loyalt&layout=compact)
-
----
-
 ## 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ankurharshadbhaipatel/)
